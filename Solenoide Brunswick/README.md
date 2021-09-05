@@ -9,7 +9,7 @@ Esto es lo que te vas a encontrar en este proyecto.
 Cualquier mecanico de bolera que trabaje con las maquinas de Brunswick, ya sean GS-92 GS-98 GS-X de torre alta o baja, sabrá que los solenoides,
 cuando se rompen los casquillos del final empiezan a dar muchos problemas, y los repuestos son muy caros.
 
-Es compatible con los solenoides negros y rojos, (solenoids black and red) con referencias originales 99-060351-004 y 99-060242-004 y sus variantes 
+Es compatible con los solenoides negros y rojos, con referencias originales 99-060351-004 y 99-060242-004 y sus variantes 
 
 Para solucionar esto, he creado esta pieza que consiste en un casquillo de plastico que se mete dentro del solenoide y recompone el casquillo, antes es necesario
 limar la superficie rota, y dejarlo lo mas liso posible. Para que veais como se monta os dejo este video en el cual podéis verlo paso a paso.
@@ -17,7 +17,7 @@ limar la superficie rota, y dejarlo lo mas liso posible. Para que veais como se 
 Video: http://youtu.be/22KL2ysEU5k
 
 Puedes decargarte el archivo para poder imprimirlo directamente desde aqui.
-[Tapa Cats And Mice](https://github.com/altenife/Arcade-Bowling/blob/main/Tapa%20arcade%20Cats%20and%20Mice/Archivos/tapa_cats_and_mice.stl)
+[Casquillo solenoide brunswick](https://github.com/altenife/Arcade-Bowling/blob/main/Solenoide%20Brunswick/Archivos/arandela_solenoide.stl)
 
 
 **Unas cuantas fotos del proceso y el resultado**
