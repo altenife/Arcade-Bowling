@@ -6,13 +6,13 @@
 Comenzemos!!! 🚀
 Esto es lo que te vas a encontrar en este proyecto.
 
-Cualquier mecanico de bolera que trabaje con las maquinas de Brunswick, ya sean GS-92 GS-98 GS-X de torre alta o baja, sabrá que los solenoides,
+Cualquier mecánico de bolera que trabaje con las maquinas de Brunswick, ya sean GS-92 GS-98 GS-X de torre alta o baja, sabrá que los solenoides,
 cuando se rompen los casquillos del final empiezan a dar muchos problemas, y los repuestos son muy caros.
 
 Es compatible con los solenoides negros y rojos, con referencias originales 99-060351-004 y 99-060242-004 y sus variantes 
 
-Para solucionar esto, he creado esta pieza que consiste en un casquillo de plastico que se mete dentro del solenoide y recompone el casquillo, antes es necesario
-limar la superficie rota, y dejarlo lo mas liso posible. Para que veais como se monta os dejo este video en el cual podéis verlo paso a paso.
+Para solucionar esto, he creado esta pieza que consiste en un casquillo de plástico que se mete dentro del solenoide y recompone el casquillo, antes es necesario
+limar la superficie rota, y dejarlo lo mas liso posible. Para que veáis como se monta os dejo este video en el cual podéis verlo paso a paso.
 
 Video: http://youtu.be/22KL2ysEU5k
 
