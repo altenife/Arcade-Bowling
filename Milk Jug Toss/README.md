@@ -42,7 +42,6 @@ Puedes decargarte el archivo para poder imprimirlo directamente desde aqui.
 
 * Si te gusta, comparte este proyecto 📢
 * Mencioname si mejoras este proyecto 🤓.
-* Mencioname si utilizas este PCBPrint en tus proyectos.
 
 
 ---
