@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://github.com/altenife/Arcade-Bowling/blob/main/Solenoide%20Brunswick/Imagenes/DSC_0246.jpg"></p> 
 
-Comenzemos!!! 🚀
+Comencemos!!! 🚀
 Esto es lo que te vas a encontrar en este proyecto.
 
 Cualquier mecánico de bolera que trabaje con las maquinas de Brunswick, ya sean GS-92 GS-98 GS-X de torre alta o baja, sabrá que los solenoides,
