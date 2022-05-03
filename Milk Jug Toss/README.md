@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://github.com/altenife/Arcade-Bowling/blob/main/Milk%20Jug%20Toss/Imagenes/Pala%20Milk%20Jug%20Toss%20(1).jpg"></p> 
 
-Comenzemos!!! 🚀
+Comencemos!!! 🚀
 Esto es lo que te vas a encontrar en este proyecto.
 
 ¿Quieres evitar tener la maquina fuera de servicio? Es muy común que las palas originales de esta maquina se partan, son de metacrilato, y al mas mínimo golpe hacen Crackkkk
